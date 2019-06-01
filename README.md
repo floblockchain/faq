@@ -1,9 +1,6 @@
 # faq
 Community driven FAQ
 
-Q. I've heard FLO was established via a "fair launch." What does that mean?
-
-
 Q. When was FLO created and launched?
 A. Flow was created and launched in 2013. It is one of the oldest surviving cyrptocurrencities. Its Genesis Block was mined on    June 17, 2013.
 
