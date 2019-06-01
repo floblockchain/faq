@@ -1,3 +1,7 @@
+<p align="center">
+   <img width="150" src="https://raw.githubusercontent.com/floblockchain/flo-graphics/master/rebrand/FLO_black_nobg.png">
+</p>
+
 # FLO - FAQ
 Community driven FAQ for the FLO blockchain project - send us a pull request with questions or answers!
 
@@ -34,12 +38,13 @@ A. FLO is used daily by many individuals and several enterprises including Medic
 ### Q. Does FLO have an establish community?
 _last update: May 31st 2019_  
 A. Yes. The FLO community can be found here:
-     - https://twitter.com/floblockchain
-     - https://reddit.com/r/floblockchain
-     - https://www.facebook.com/floblockchain
-     - https://www.youtube.com/channel/UCDAELSdJelys5VkE1FuXo2A
-     - https://medium.com/flo-cash
-     - https://discord.gg/NECfU34
+ - [Telegram](https://t.me/FLOblockchain)
+ - [Twitter](https://twitter.com/floblockchain)
+ - [Reddit](https://reddit.com/r/floblockchain)
+ - [Discord](https://discord.gg/NECfU34)
+ - [Facebook](https://www.facebook.com/floblockchain)
+ - [Youtube](https://www.youtube.com/channel/UCDAELSdJelys5VkE1FuXo2A)
+ - [Medium](https://medium.com/flo-cash)
 
 ### Why is Alexandria not up yet? 
 _last update: none_
