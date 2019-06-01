@@ -1,0 +1,2 @@
+# faq
+Community driven FAQ
