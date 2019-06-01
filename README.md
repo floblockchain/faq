@@ -8,7 +8,7 @@ Q. I've heard FLO was established via a "fair launch." What does that mean?
 A. A "fair launch" means there was no ICO, no premine, and no founders’ reward.
 
 Q. Why FLO?
-A. FLO is used for by individuals, corporations, and public entities for a variety of reasons:
+A. FLO is used by individuals, corporations, and public entities for a variety of reasons:
 
    1. floData is accessible and easy to read. You don't need to decompile a smart contract or have a special software to read       it. It's in plaintext on the chain. This helps with auditing and explaining how it works to regulators. Any extra steps       are a barrier to adoption.
 
