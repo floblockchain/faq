@@ -5,25 +5,25 @@ Community driven FAQ
 ## A. FLO is many things:
 
 -  FLO is metadata.
--  FLO is the blockchain that indexes the world's digital content.
--  FLO is a searchable metadata layer for building apps.
--  FLO is 100% uptime and 100% data availability.
--  FLO is a cryptocurrency and a medium exchange.
+-  FLO is the blockchain that indexes the world's digital content
+-  FLO is a searchable metadata layer for building apps
+-  FLO is 100% uptime and 100% data availability
+-  FLO is a cryptocurrency and a medium of exchange
 -  FLO is miners securing the network through proof-of-work
--  FLO is required to pay for metadata storage on the network.
--  FLO is a fair launch cryptocurrency.
+-  FLO is required to pay for metadata storage on the network
+-  FLO is a fair launch cryptocurrency
 -  FLO is no premine
--  FLO is open source.
--  FLO is permissionless.
--  FLO is decentralized.
--  FLO is freedom of speech.
--  FLO is 2013 crypto philosophy.
--  FLO is an organic community of developers and enthusiasts.
--  FLO is practical usecases. 
+-  FLO is open source
+-  FLO is permissionless
+-  FLO is decentralized
+-  FLO is freedom of speech
+-  FLO is 2013 crypto philosophy
+-  FLO is an organic community of developers and enthusiasts
+-  FLO is practical usecases
 -  FLO is the Open Index Protocol and Alexandria.io
--  FLO is Caltech scientific data.
--  FLO is Medici land right data.
--  FLO is Digital Locate Receipt data.
+-  FLO is Caltech scientific data
+-  FLO is Medici land right data
+-  FLO is Digital Locate Receipt data
 
 ## Q. When was FLO created and launched?
 ## A. Flow was created and launched in 2013. It is one of the oldest surviving cryptocurrencies. Its Genesis Block was mined on June 17, 2013.
