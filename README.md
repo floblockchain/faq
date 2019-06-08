@@ -7,7 +7,7 @@ Community driven FAQ for the FLO blockchain project - send us a pull request wit
 
 ### Q. When was FLO created and launched?
 _last update: May 31st 2019_  
-A. Flow was created and launched in 2013. It is one of the oldest surviving cyrptocurrencities. Its Genesis Block was mined on    June 17, 2013.
+A. FLO was created and launched in 2013. It is one of the oldest surviving cyrptocurrencities. Its genesis block was mined on    June 17, 2013. FLO was originally named Florincoin on launch but later re-branded to just FLO.
 
 ### Q. I've heard FLO was established via a "fair launch." What does that mean?
 _last update: May 31st 2019_  
