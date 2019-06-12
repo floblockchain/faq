@@ -2,7 +2,6 @@
    <img width="150" src="https://raw.githubusercontent.com/floblockchain/flo-graphics/master/rebrand/FLO_black_nobg.png">
 </p>
 
-
 ## Q. What is FLO?
 ## A. FLO is many things:
 
@@ -21,22 +20,18 @@
 -  FLO is freedom of speech
 -  FLO is 2013 crypto philosophy
 -  FLO is an organic community of developers and enthusiasts
--  FLO is practical usecases
+-  FLO is practical use cases
 -  FLO is the Open Index Protocol and Alexandria.io
 -  FLO is Caltech scientific data
--  FLO is Medici land right data
+-  FLO is Medici land rights data
 -  FLO is Digital Locate Receipt data
 
 ## Q. When was FLO created and launched?
 ## A. FLO was created and launched in 2013. It is one of the oldest surviving cryptocurrencies. Its genesis block was mined on June 17, 2013.
 
-# FLO - FAQ
-Community driven FAQ for the FLO blockchain project - send us a pull request with questions or answers!
-
-
 ### Q. When was FLO created and launched?
 _last update: May 31st 2019_  
-A. FLO was created and launched in 2013. It is one of the oldest surviving cyrptocurrencities. Its genesis block was mined on    June 17, 2013. FLO was originally named Florincoin on launch but later re-branded to just FLO.
+A. FLO was created and launched in 2013. It is one of the oldest surviving cryptocurrencies. Its genesis block was mined on June 17, 2013. FLO was originally named Florincoin on launch but later re-branded to just FLO.
 
 ### Q. I've heard FLO was established via a "fair launch." What does that mean?
 _last update: May 31st 2019_  
@@ -46,7 +41,7 @@ A. A "fair launch" means there was no ICO, no premine, and no founders’ reward
 _last update: May 31st 2019_  
 A. FLO is used by individuals, corporations, and public entities for a variety of reasons:
 
-   - floData is accessible and easy to read. You don't need to decompile a smart contract or have a special software to read       it. It's in plaintext on the chain. This helps with auditing and explaining how it works to regulators. Any extra steps       are a barrier to adoption.
+   - floData is accessible and easy to read. You don't need to decompile a smart contract or have a special software to read it. It's in plaintext on the chain. This helps with auditing and explaining how it works to regulators. Any extra steps are a barrier to adoption.
 
    - floData is easy to write. It is appended to the blockchain using a simple RPC command. This makes maintaining the             software around the solution less costly.
 
@@ -63,13 +58,8 @@ A. FLO is used by individuals, corporations, and public entities for a variety o
  
   ## Q. Who is using FLO?
   ## A. FLO is used daily by many individuals and several enterprises including Medici Land Governance (to store land title registry data), Caltech (to store electron tomography data), tZERO (to store Digital Locate Receipt (DLR) data), and Alexandria (to assign and manage contents licensing). 
-
-### Q. Who is using FLO?
-_last update: May 31st 2019_  
-A. FLO is used daily by many individuals and several enterprises including Medici Land Governance (to store land title            registry data), Caltech (to store electron tomography data), tZERO (to store Digital Locate Receipt (DLR) data), and          Alexandria (to assign and mange contents licensing). 
- 
   
-### Q. Does FLO have an establish community?
+### Q. Does FLO have an established community?
 _last update: May 31st 2019_  
 A. Yes. The FLO community can be found here:
  - [Telegram](https://t.me/FLOblockchain)
@@ -83,6 +73,6 @@ A. Yes. The FLO community can be found here:
 ### Why is Alexandria not up yet? 
 _last update: none_
 
-### How many dapps is running on FLO?
+### How many DApps are running on FLO?
 _last update: none_
 
