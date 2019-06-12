@@ -26,7 +26,7 @@ Community driven FAQ
 -  FLO is Digital Locate Receipt data
 
 ## Q. When was FLO created and launched?
-## A. Flow was created and launched in 2013. It is one of the oldest surviving cryptocurrencies. Its Genesis Block was mined on June 17, 2013.
+## A. FLO was created and launched in 2013. It is one of the oldest surviving cryptocurrencies. Its genesis block was mined on June 17, 2013.
 
 ## Q. I've heard FLO was established via a "fair launch." What does that mean?
 ## A. A "fair launch" means there was no ICO, no premine, and no founders’ reward.
@@ -49,7 +49,7 @@ Community driven FAQ
    -  FLO's main use-case is floData, unlike other chains who support complex smart contract languages and operations unrelated      to storing data. Sometimes it's best to use a tool that's meant to perform best at a single job rather than bringing          around a Swiss army knife and using it for only 1 of its functions.
   
   ## Q. Who is using FLO?
-  ## A. FLO is used daily by many individuals and several enterprises including Medici Land Governance (to store land title    registry data), Caltech (to store electron tomography data), tZERO (to store Digital Locate Receipt (DLR) data), and        Alexandria (to assign and mange contents licensing). 
+  ## A. FLO is used daily by many individuals and several enterprises including Medici Land Governance (to store land title registry data), Caltech (to store electron tomography data), tZERO (to store Digital Locate Receipt (DLR) data), and Alexandria (to assign and manage contents licensing). 
   
   ## Q. Does FLO have an establish community?
   ## A. Yes. The FLO community can be found here:
