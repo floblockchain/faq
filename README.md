@@ -1,5 +1,7 @@
-# faq
-Community driven FAQ
+<p align="center">
+   <img width="150" src="https://raw.githubusercontent.com/floblockchain/flo-graphics/master/rebrand/FLO_black_nobg.png">
+</p>
+
 
 ## Q. What is FLO?
 ## A. FLO is many things:
@@ -28,11 +30,21 @@ Community driven FAQ
 ## Q. When was FLO created and launched?
 ## A. FLO was created and launched in 2013. It is one of the oldest surviving cryptocurrencies. Its genesis block was mined on June 17, 2013.
 
-## Q. I've heard FLO was established via a "fair launch." What does that mean?
-## A. A "fair launch" means there was no ICO, no premine, and no founders’ reward.
+# FLO - FAQ
+Community driven FAQ for the FLO blockchain project - send us a pull request with questions or answers!
 
-## Q. Why FLO?
-## A. FLO is used by individuals, corporations, and public entities for a variety of reasons:
+
+### Q. When was FLO created and launched?
+_last update: May 31st 2019_  
+A. FLO was created and launched in 2013. It is one of the oldest surviving cyrptocurrencities. Its genesis block was mined on    June 17, 2013. FLO was originally named Florincoin on launch but later re-branded to just FLO.
+
+### Q. I've heard FLO was established via a "fair launch." What does that mean?
+_last update: May 31st 2019_  
+A. A "fair launch" means there was no ICO, no premine, and no founders’ reward.
+
+### Q. Why FLO?
+_last update: May 31st 2019_  
+A. FLO is used by individuals, corporations, and public entities for a variety of reasons:
 
    - floData is accessible and easy to read. You don't need to decompile a smart contract or have a special software to read       it. It's in plaintext on the chain. This helps with auditing and explaining how it works to regulators. Any extra steps       are a barrier to adoption.
 
@@ -48,14 +60,29 @@ Community driven FAQ
 
    -  FLO's main use-case is floData, unlike other chains who support complex smart contract languages and operations unrelated      to storing data. Sometimes it's best to use a tool that's meant to perform best at a single job rather than bringing          around a Swiss army knife and using it for only 1 of its functions.
   
+ 
   ## Q. Who is using FLO?
   ## A. FLO is used daily by many individuals and several enterprises including Medici Land Governance (to store land title registry data), Caltech (to store electron tomography data), tZERO (to store Digital Locate Receipt (DLR) data), and Alexandria (to assign and manage contents licensing). 
+
+### Q. Who is using FLO?
+_last update: May 31st 2019_  
+A. FLO is used daily by many individuals and several enterprises including Medici Land Governance (to store land title            registry data), Caltech (to store electron tomography data), tZERO (to store Digital Locate Receipt (DLR) data), and          Alexandria (to assign and mange contents licensing). 
+ 
   
-  ## Q. Does FLO have an establish community?
-  ## A. Yes. The FLO community can be found here:
-     - https://twitter.com/floblockchain
-     - https://reddit.com/r/floblockchain
-     - https://www.facebook.com/floblockchain
-     - https://www.youtube.com/channel/UCDAELSdJelys5VkE1FuXo2A
-     - https://medium.com/flo-cash
-     - https://discord.gg/NECfU34
+### Q. Does FLO have an establish community?
+_last update: May 31st 2019_  
+A. Yes. The FLO community can be found here:
+ - [Telegram](https://t.me/FLOblockchain)
+ - [Twitter](https://twitter.com/floblockchain)
+ - [Reddit](https://reddit.com/r/floblockchain)
+ - [Discord](https://discord.gg/NECfU34)
+ - [Facebook](https://www.facebook.com/floblockchain)
+ - [Youtube](https://www.youtube.com/channel/UCDAELSdJelys5VkE1FuXo2A)
+ - [Medium](https://medium.com/flo-cash)
+
+### Why is Alexandria not up yet? 
+_last update: none_
+
+### How many dapps is running on FLO?
+_last update: none_
+
